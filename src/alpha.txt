@@ -4,9 +4,15 @@ c
 d
 e
 deb
+<<<<<<< HEAD
 niraj
 nimesh 
 11
 22
 33
 44
+=======
+
+nimesh 
+raj
+>>>>>>> d63f9874da786ef9d209f957efdc9801c411254f
